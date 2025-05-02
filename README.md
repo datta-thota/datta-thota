@@ -18,11 +18,11 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl1cHc4OXdiYjd3emUwNjV0cGp5ZnJpOXgzcndxMWlwMDJxdHFwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pWb85O0u9zDCiZKYqF/giphy.gif" />
 
-- 🎥 **A Tollywood Enthusiast**, blending the art of storytelling with technology.
-- 💻 **Full Stack Developer** with a **passion for Machine Learning**, transforming everyday tasks into **cinematic experiences**.
-- 👨‍💻 **ACM Chairperson** – Leading the crew behind tech events like an action hero!
-- 🤖 Crafting **smart AI solutions** with the power of **Python**, **TensorFlow**, and **scikit-learn**.
-- 💡 **Obsessed with Full Stack Web Development** – Bringing the world closer with **React.js**, **MongoDB**, **SQL**, and **Figma**.
+-  **A Tollywood Enthusiast**, blending the art of storytelling with technology.
+-  **Full Stack Developer** with a **passion for Machine Learning**, transforming everyday tasks into **cinematic experiences**.
+-  **ACM Chairperson** – Leading the crew behind tech events like an action hero!
+-  Crafting **smart AI solutions** with the power of **Python**, **TensorFlow**, and **scikit-learn**.
+-  **Obsessed with Full Stack Web Development** – Bringing the world closer with **React.js**, **MongoDB**, **SQL**, and **Figma**.
 
 ---
 
