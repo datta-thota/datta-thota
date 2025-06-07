@@ -59,8 +59,8 @@
 > 💊 E-commerce platform for affordable healthcare  
 > ⚙️ Built using React.js, Node.js, MongoDB  
 
-#### 💊 NoteForge *(May 2024 – Sep 2024)*
-> 💊 Notes Sharing platform for all students  
+#### 📝 NoteForge *(May 2024 – Sep 2024)*
+> 📝 Notes Sharing platform for all students  
 > ⚙️ Built using React native, MongoDB, Cloudinary and expo 
 
 ---
